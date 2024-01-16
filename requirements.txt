@@ -1,0 +1,4 @@
+rich==12.6.0
+bardapi==0.1.38
+browser-cookie3==0.19.1
+python-dotenv==0.21.0
